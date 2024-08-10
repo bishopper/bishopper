@@ -23,3 +23,5 @@
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="typescript" width="100" height="100"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="typescript" width="100" height="100"/> </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
