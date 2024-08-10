@@ -16,10 +16,10 @@
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="typescript" width="100" height="100"/> </a>
-  <a href="" target="_blank"> <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)" alt="javascript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="typescript" width="100" height="100"/> </a>
-  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="typescript" width="100" height="100"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="javascript" width="100" height="100"/> </a>
+<a href="" target="_blank"> <img src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="typescript" width="100" height="100"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="typescript" width="100" height="100"/> </a>
+  <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="javascript" width="100" height="100"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="typescript" width="100" height="100"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="typescript" width="100" height="100"/> </a>
 </p>
