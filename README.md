@@ -1,40 +1,40 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammad%20Behnam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Architect&descAlignY=51&descAlign=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammad%20Behnam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20PhD%20Student%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=62)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3584E3&background=21222200&center=true&vCenter=true&random=false&width=600&height=100&lines=Expert+Full+Stack+Developer;Solution+Architect;Clean+Code+Enthusiast;Performance+Optimization+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3584E3&background=21222200&center=true&vCenter=true&random=false&width=600&height=100&lines=AI+PhD+Student;Frontend+Developer;.NET+Core+Developer;Clean+Code+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ## 🎯 Professional Summary
 
-> Experienced Full Stack Developer with a passion for building scalable applications and delivering robust solutions. Specializing in modern web technologies, distributed systems, and clean architecture.
+> AI PhD Student and Full Stack Developer specializing in Frontend development with TypeScript and Backend development with .NET Core. Passionate about artificial intelligence, web development, and creating efficient, scalable solutions.
 
 ```typescript
-const techStack = {
+const profile = {
+    education: {
+        current: "PhD in Artificial Intelligence",
+        focus: ["Machine Learning", "AI Applications", "Research"]
+    },
+    professional: {
+        role: "Frontend Developer",
+        expertise: ["TypeScript", ".NET Core"]
+    },
     frontend: {
-        expertise: ["React.js", "Next.js", "TypeScript"],
+        languages: ["JavaScript", "TypeScript"],
+        frameworks: ["React", "Next.js"],
         stateManagement: ["Redux", "Zustand"],
-        styling: ["Tailwind CSS", "Styled Components"],
-        testing: ["Jest", "React Testing Library"]
+        styling: ["Tailwind CSS"]
     },
     backend: {
-        languages: ["C#", "Go", "Python"],
-        frameworks: [".NET Core", "Gin", "Django", "Flask"],
-        architecture: ["Microservices", "Event-Driven", "DDD"]
+        languages: ["C#"],
+        frameworks: [".NET Core"],
+        databases: ["SQL Server", "PostgreSQL"]
     },
-    mobile: {
-        crossPlatform: ["Flutter", "Dart"],
-        stateManagement: ["GetX", "Provider"],
-    },
-    database: {
-        sql: ["SQL Server", "PostgreSQL"],
-        tools: ["Entity Framework", "GORM", "Django ORM"]
-    },
-    devOps: {
-        cicd: ["GitHub Actions", "Azure DevOps"],
-        containerization: ["Docker", "Kubernetes"],
-        cloud: ["Azure", "AWS"]
+    additional: {
+        languages: ["Go", "Python"],
+        frameworks: ["Gin", "Django", "Flask"],
+        mobile: ["Flutter", "Dart", "GetX"]
     }
 };
 ```
@@ -43,20 +43,17 @@ const techStack = {
 
 <div align="center">
 
-<!-- GitHub Stats Cards in One Row -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishopper&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Languages Card -->
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishopper&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ## 🏆 Achievements Wall
 
-<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bishopper&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 </p>
@@ -65,22 +62,18 @@ const techStack = {
 
 <div align="center">
 
-### 🌐 Frontend Development
+### 🌐 Primary Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🧰 Additional Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -91,15 +84,15 @@ const techStack = {
 </div>
 
 ## 📈 Contribution Growth
-<!-- Contribution Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishopper&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🎯 Current Initiatives
+## 🎯 Current Focus
 
-- 🔭 Leading development of **Enterprise-Scale Microservices Architecture**
-- 🌱 Researching **AI/ML Integration in Web Applications**
-- 👯 Open to collaborate on **Innovative Open Source Projects**
-- 💡 Writing technical articles on **System Design and Best Practices**
+- 🎓 Pursuing **PhD in Artificial Intelligence**
+- 💼 Working as **Frontend Developer** with TypeScript & .NET Core
+- 🔭 Researching **AI Applications in Software Development**
+- 🌱 Exploring **Advanced AI/ML Techniques**
+- 👯 Open to collaborate on **AI and Web Development Projects**
 
 ## 📫 Professional Network
 
@@ -112,15 +105,14 @@ const techStack = {
 
 </div>
 
-## 📊 Weekly Coding Metrics
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 40 mins  ████████████░░░░░░░  48.32%
-C#          10 hrs 20 mins  ███████░░░░░░░░░░░░  29.93%
-Go           4 hrs 15 mins  ████░░░░░░░░░░░░░░░  12.31%
-Python       2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░   7.97%
-Other        0 hrs 30 mins  ░░░░░░░░░░░░░░░░░░░   1.47%
+TypeScript   18 hrs 30 mins  █████████████░░░░░░  52.85%
+C#           12 hrs 45 mins  ████████████░░░░░░░  36.42%
+Python       2 hrs 15 mins   ███░░░░░░░░░░░░░░░   6.43%
+Go           1 hr 30 mins    ██░░░░░░░░░░░░░░░░   4.30%
 ```
 <!--END_SECTION:waka-->
 
@@ -128,7 +120,7 @@ Other        0 hrs 30 mins  ░░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-### "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+### "In the realm of AI and software development, the fusion of theory and practice creates the most impactful solutions."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bishopper&style=for-the-badge&color=0e75b6)
 
