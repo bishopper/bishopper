@@ -1,121 +1,137 @@
 <div align="center">
-  
-# Mohammad Behnam | Full Stack Developer 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Passionate+about+Clean+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammad%20Behnam&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Architect&descAlignY=51&descAlign=62)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3584E3&background=21222200&center=true&vCenter=true&random=false&width=600&height=100&lines=Expert+Full+Stack+Developer;Solution+Architect;Clean+Code+Enthusiast;Performance+Optimization+Specialist)](https://git.io/typing-svg)
 
 </div>
 
-## 👋 About Me
+## 🎯 Professional Summary
+
+> Experienced Full Stack Developer with a passion for building scalable applications and delivering robust solutions. Specializing in modern web technologies, distributed systems, and clean architecture.
 
 ```typescript
-const mohammadBehnam = {
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "C#", "Go", "Python", "Dart"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Material-UI", "Bootstrap"]
-        },
-        backEnd: {
-            csharp: [".NET Core"],
-            go: ["Gin"],
-            python: ["Django", "Flask"]
-        },
-        mobile: ["Flutter", "GetX"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-        architecture: ["Microservices", "Event-Driven", "Design Patterns"]
+const techStack = {
+    frontend: {
+        expertise: ["React.js", "Next.js", "TypeScript"],
+        stateManagement: ["Redux", "Zustand"],
+        styling: ["Tailwind CSS", "Styled Components"],
+        testing: ["Jest", "React Testing Library"]
+    },
+    backend: {
+        languages: ["C#", "Go", "Python"],
+        frameworks: [".NET Core", "Gin", "Django", "Flask"],
+        architecture: ["Microservices", "Event-Driven", "DDD"]
+    },
+    mobile: {
+        crossPlatform: ["Flutter", "Dart"],
+        stateManagement: ["GetX", "Provider"],
+    },
+    database: {
+        sql: ["SQL Server", "PostgreSQL"],
+        tools: ["Entity Framework", "GORM", "Django ORM"]
+    },
+    devOps: {
+        cicd: ["GitHub Actions", "Azure DevOps"],
+        containerization: ["Docker", "Kubernetes"],
+        cloud: ["Azure", "AWS"]
     }
 };
 ```
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishopper&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/bishopper/github-profile-trophy)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishopper&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishopper&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## 💻 Tech Stack
+## 📊 Performance Dashboard
 
 <div align="center">
 
-### Frontend & UI
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- GitHub Stats Cards in One Row -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishopper&theme=tokyonight&hide_border=true" />
+</p>
 
-### Backend & Database
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<!-- Languages Card -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishopper&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishopper&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 Achievements Wall
 
-## 🎯 Current Focus
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bishopper&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</p>
 
-- 🔭 I'm currently working on **Building Scalable Web Applications**
-- 🌱 I'm currently learning **System Design and Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Architecture, and Best Practices**
-- ⚡ Fun fact: **Code is like humor. When you have to explain it, it's bad.**
-
-## 📫 Connect with Me
+## 💻 Technical Proficiency
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourTwitter)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YourID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://yourwebsite.com)
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🛢 Database
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
-## 📊 Weekly Development Breakdown
+## 📈 Contribution Growth
+<!-- Contribution Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishopper&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🎯 Current Initiatives
+
+- 🔭 Leading development of **Enterprise-Scale Microservices Architecture**
+- 🌱 Researching **AI/ML Integration in Web Applications**
+- 👯 Open to collaborate on **Innovative Open Source Projects**
+- 💡 Writing technical articles on **System Design and Best Practices**
+
+## 📫 Professional Network
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishopper)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+
+</div>
+
+## 📊 Weekly Coding Metrics
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   12 hrs 15 mins  ███████████░░░░░░░░  45.25%
-C#          8 hrs 35 mins   ████████░░░░░░░░░░░  31.72%
-Python      3 hrs 25 mins   ███░░░░░░░░░░░░░░░░  12.63%
-Go          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░   8.32%
-Other       0 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░   2.08%
+TypeScript   16 hrs 40 mins  ████████████░░░░░░░  48.32%
+C#          10 hrs 20 mins  ███████░░░░░░░░░░░░  29.93%
+Go           4 hrs 15 mins  ████░░░░░░░░░░░░░░░  12.31%
+Python       2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░   7.97%
+Other        0 hrs 30 mins  ░░░░░░░░░░░░░░░░░░░   1.47%
 ```
 <!--END_SECTION:waka-->
-
-## 🎵 Currently Playing
-
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
 
 ---
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
-![](https://komarev.com/ghpvc/?username=bishopper&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=bishopper&style=for-the-badge&color=0e75b6)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
