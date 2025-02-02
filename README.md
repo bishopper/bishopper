@@ -1,40 +1,100 @@
-## Hi there 👋
+<div align="center">
+  
+# 👨‍💻 Full Stack Developer
 
-- 🔭 I'm currently working on Full Stack Development
-- 🌱 I'm currently learning Advanced System Design
-- 👯 I'm looking to collaborate on Open Source Projects
-- 💻 Full Stack Developer passionate about creating efficient solutions
+[![Years Badge](https://badges.pufler.dev/years/YourGithubUsername)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/YourGithubUsername)](https://badges.pufler.dev)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YourUsername)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishopper&theme=onedark)](https://github.com/bishopper/github-profile-trophy)
+</div>
 
-![Mohammad Behnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&theme=dracula)
+## 🚀 تخصص‌های من | My Expertise
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishopper)](https://git.io/streak-stats)
+### 🌐 توسعه فرانت‌اند | Frontend Development
+```javascript
+const frontendSkills = {
+    languages: ["JavaScript", "TypeScript"],
+    frameworks: ["React.js", "Next.js"],
+    stateManagement: ["Redux", "Zustand"],
+    styling: ["Tailwind CSS"],
+}
+```
 
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left">
-<!-- Frontend -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="100" height="100"/> </a>
+### ⚙️ توسعه بک‌اند | Backend Development
+```javascript
+const backendSkills = {
+    languages: ["C#", "Go", "Python"],
+    frameworks: [
+        ".NET Core",
+        "Go Gin",
+        "Django",
+        "Flask"
+    ],
+    databases: ["SQL Server", "PostgreSQL"]
+}
+```
 
-<!-- Backend -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="100" height="100"/> </a>
+### 📱 توسعه موبایل | Mobile Development
+```javascript
+const mobileSkills = {
+    languages: ["Dart"],
+    frameworks: ["Flutter"],
+    stateManagement: ["GetX"]
+}
+```
 
-<!-- Mobile -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="100" height="100"/> </a>
+## 💻 تکنولوژی‌ها و ابزارها | Tech Stack
 
-<!-- Databases -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="100" height="100"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="100" height="100"/> </a>
-</p>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=bishopper)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+## 📊 آمار گیت‌هاب من | My GitHub Stats
+
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=tokyonight)](https://github.com/YourGithubUsername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=YourGithubUsername&layout=compact&theme=tokyonight)](https://github.com/YourGithubUsername)
+
+</div>
+
+## 📫 ارتباط با من | Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
+
+</div>
+
+---
+
+<div align="center">
+  <p>
+    بازدیدکنندگان | Visitors
+  </p>
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGithubUsername.YourGithubUsername)
+</div>
