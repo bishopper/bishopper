@@ -1,177 +1,180 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,27,36&height=380&section=header&animation=twinkling&text=Mohammad%20Behnam&fontSize=90&fontAlignY=50&rotate=13&desc=Turning%20Vision%20Into%20Digital%20Reality&descSize=25&descAlignY=68&fontColor=f0f0f0)
+![Header](https://capsule-render.vercel.app/api?type=vortex&color=0:8A2387,50:E94057,100:F27121&height=350&section=header&text=Mohammad%20Behnam&desc=AI%20Researcher%20%7C%20Software%20Architect&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=30&descSize=25&descAlignY=50)
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway:wght@800&size=32&duration=3000&pause=500&color=0CA4F5&center=true&vCenter=true&width=600&height=80&lines=Software+Architect;AI+PhD+Researcher;Full+Stack+Developer;Digital+Innovator" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=E94057&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;.NET+%26+Angular+Expert;AI+PhD+Researcher;Software+Architecture+Visionary" alt="Typing SVG" /></a>
 
-[![GitHub followers](https://img.shields.io/github/followers/bishopper?style=for-the-badge&logo=github&color=0F4880&logoColor=white)](https://github.com/bishopper?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=bishopper&style=for-the-badge&color=0F4880)](https://github.com/bishopper)
+[![GitHub followers](https://img.shields.io/github/followers/bishopper?style=for-the-badge&logo=github&labelColor=000000&color=E94057)](https://github.com/bishopper?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=bishopper&style=for-the-badge&labelColor=000000&color=E94057)](https://github.com/bishopper)
 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeDd5eWprbGozZnoyNWx1eTFvNXdpMGhhaGRjZG9jZ2Q0Mzk3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="10px">
 </div>
 
 <br>
 
-<!-- About Section -->
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="1" cellpadding="2" style="border: none;">
 <tr>
-<td width="60%">
+<td width="55%">
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNrd3R5YzhvcmZ3bmwwaTE5b2h6Y2x5cXYzNDN2dTg4cXFqNGt6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif" width="40"> Visionary Architect & AI Explorer
+## 🌌 Journey Through The Digital Cosmos
 
-> In the realm where code meets cognitive science, I craft digital experiences that transcend the ordinary.
+> _"At the intersection of code and intelligence, we discover the future."_
 
-I navigate the complex landscapes of software architecture and artificial intelligence, creating elegant solutions that address real-world challenges. With a passion for clean code and innovative design, I build systems that not only function flawlessly but evolve gracefully.
+I navigate the vast digital universe as a **Full Stack Developer** with expertise in **.NET Core** and **Angular**, while exploring the frontiers of **Artificial Intelligence** through my PhD research. My mission is to create elegant, scalable solutions that bridge theoretical AI research with practical enterprise applications.
 
-```javascript
+```typescript
 const mohammad = {
-  essence: "Digital Alchemist",
-  expertise: ["Software Architecture", "AI Research", "Full Stack Development"],
-  technologies: {
-    frontend: ["Angular", "React", "TypeScript", "Tailwind CSS"],
-    backend: [".NET Core", "ASP.NET", "Python", "FastAPI"],
-    database: ["SQL Server", "PostgreSQL", "MongoDB"],
-    architecture: ["Microservices", "Event-Driven", "DDD", "CQRS"]
+  identity: "Digital Architect & AI Explorer",
+  languages: ["C#", "TypeScript", "Python", "JavaScript"],
+  architecturePatterns: ["Microservices", "Event-Driven", "DDD", "CQRS"],
+  currentQuests: {
+    professional: "Building resilient enterprise ecosystems",
+    academic: "Unlocking the potential of Large Language Models"
   },
-  currentQuest: "Merging enterprise architecture excellence with cutting-edge AI capabilities",
-  motto: "Code is poetry, architecture is philosophy, AI is the future"
+  philosophy: "Code is poetry, architecture is art, AI is the future"
 };
 ```
 
 </td>
-<td width="40%">
-<div align="center">
-  <img src="https://www.svgrepo.com/show/483266/software-engineer.svg" width="100%">
-</div>
+<td width="45%">
+<img src="https://api.daily.dev/devcards/v2/wX5L3Fg90.png?type=wide&r=9kw" width="100%" alt="Developer Card"/>
 </td>
 </tr>
 </table>
 </div>
 
-<!-- Separator -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator">
-</div>
-
-<!-- Education Section -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw2Z2tvd2o3aGVleGk5eWdocmx3ZHl1Y2RjeHV2Ymh4eXA3dXBpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JrXas5A8DWlzgBTFTL/giphy.gif" width="40"> Academic Journey
+<br>
 
 <div align="center">
-
-| Degree | Field | Institution | Duration |
-|:------:|:------|:------------|:---------|
-| <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Graduation%20Cap.png" alt="PhD" width="25" /> **PhD** | Artificial Intelligence Engineering | Islamic Azad University, Qom Branch | 2024-Present |
-| <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Books.png" alt="MSc" width="25" /> **MSc** | Computer Engineering | Islamic Azad University, Science & Research Branch | 2022-2024 |
-| <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Open%20Book.png" alt="BSc" width="25" /> **BSc** | Computer Engineering | Qom State University | 2018-2022 |
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeDd5eWprbGozZnoyNWx1eTFvNXdpMGhhaGRjZG9jZ2Q0Mzk3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="10px">
 </div>
 
-<!-- Professional Experience -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d6d2Qwejl3bXAzcDcyY2ZlZGhlbjN2eDYyNzI4MnZ0Y3VicXRxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="40"> Professional Timeline
+<br>
+
+## 📚 Academic Constellation
 
 <div align="center">
-  <div style="display: inline-block; text-align: left;">
-    
-```mermaid
-%%{
-  init: {
-    'theme': 'dark',
-    'themeVariables': {
-      'primaryColor': '#0F4880',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#0CA4F5',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#0F4880'
-    }
-  }
-}%%
 
-timeline
-    title Professional Evolution
-    2023 - Present : Full Stack Developer : Shajare Tayyebeh Fund, Qom
-                    : React.js, .NET Core, Azure
-    2021 - 2023 : Software Developer : ICTC, Sharif University of Technology
-                : React.js, .NET Core, SQL Server
-    2019 - 2021 : Front-end Developer : Rasa Samaneh, Qom
-                : Angular, RxJS, Material Design
-```
+| Degree | Field | Institution | Timeline |
+|:------:|:------|:-----------|:----:|
+| 🔮 **PhD** | Artificial Intelligence Engineering | Islamic Azad University, Qom Branch | 2022-Present |
+| 🌠 **MSc** | Computer Engineering | Islamic Azad University, Science & Research Branch | 2018-2021 |
+| 🌟 **BSc** | Computer Engineering | Qom State University | 2014-2018 |
 
-  </div>
 </div>
 
-<!-- Separator -->
+<br>
+
+## 🚀 Professional Orbit
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator">
+
+| Role | Organization | Tech Stack | Period |
+|:---------|:--------|:-------------|:-------|
+| **Full Stack Developer** | Shajare Tayyebeh Fund, Qom | React.js, .NET Core | 2023-Present |
+| **Software Developer** | ICTC, Sharif University of Technology | React.js, .NET Core, SQL Server | 2023-2024 |
+| **Front-end Developer** | Rasa Samaneh, Qom | Angular, RxJS, Material Design | 2023-2023 |
+| **Freelance Developer** | Personal & Academic Projects | Various Technologies | 2018-2023 |
+
 </div>
 
-<!-- Technical Skills -->
+<br>
+
 <div align="center">
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHc3eG4zZTBkdmVidW9idmV5aGtidGVqY3FjeWJyMHJ0ZHVmZXRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> Technical Mastery</h2>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-<div>
-<h3 align="center">🧠 AI & Research</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-0F4880?style=for-the-badge&logo=python&logoColor=white" alt="ML" />
-  <img src="https://img.shields.io/badge/Natural_Language_Processing-0F4880?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Large_Language_Models-0F4880?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Neural_Networks-0F4880?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/Data_Science-0F4880?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-</p>
-
-<h3 align="center">⚙️ Backend Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET_Core-0F4880?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/ASP.NET_Web_API-0F4880?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Entity_Framework-0F4880?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
-  <img src="https://img.shields.io/badge/Python-0F4880?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0F4880?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeDd5eWprbGozZnoyNWx1eTFvNXdpMGhhaGRjZG9jZ2Q0Mzk3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="10px">
 </div>
 
-<div>
-<h3 align="center">🎨 Frontend Artistry</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-0F4880?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-0F4880?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0F4880?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F4880?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/SASS-0F4880?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-</p>
+<br>
 
-<h3 align="center">🏛️ Architectural Design</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-0F4880?style=for-the-badge&logo=serverless&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Event_Driven-0F4880?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Event-Driven" />
-  <img src="https://img.shields.io/badge/Domain_Driven_Design-0F4880?style=for-the-badge&logo=ddd&logoColor=white" alt="DDD" />
-  <img src="https://img.shields.io/badge/CQRS-0F4880?style=for-the-badge&logo=cqrs&logoColor=white" alt="CQRS" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-0F4880?style=for-the-badge&logo=clean-code&logoColor=white" alt="Clean Architecture" />
-</p>
-</div>
-
-</div>
-
-<h3 align="center">🛠️ Developer Tools & Ecosystem</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0F4880?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0F4880?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/SQL_Server-0F4880?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F4880?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0F4880?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-0F4880?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CI/CD-0F4880?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-</p>
-</div>
-
-<!-- Separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator">
+<h2>💫 Technical Universe</h2>
 </div>
 
-<!-- Stats Section -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ3eDRocHJoZzJ5bmt1ZTUzMWEzZDd0OGV1YzRnbGdsNHYydXB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uqjD9OexmQJRB/giphy.gif" width="40"> Development Analytics
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<tr>
+<td width="50%">
+
+<h3 align="center">🔮 Backend Sorcery</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt=".NET Core" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt="ASP.NET" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt="EF Core" />
+<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt="Dapper" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117" alt="Django" />
+</div>
+
+<h3 align="center">🌌 Frontend Galaxies</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" alt="Angular" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=0D1117" alt="Blazor" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117" alt="SASS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" alt="Bootstrap" />
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🧠 AI Dimensions</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0D1117" alt="NLP" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="LLMs" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" alt="PyTorch" />
+</div>
+
+<h3 align="center">🏛️ Architectural Constellations</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Microservices-FF4785?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" alt="Microservices" />
+<img src="https://img.shields.io/badge/Event_Driven-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=0D1117" alt="Event-Driven" />
+<img src="https://img.shields.io/badge/DDD-02569B?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117" alt="DDD" />
+<img src="https://img.shields.io/badge/CQRS-5C2D91?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117" alt="CQRS" />
+<img src="https://img.shields.io/badge/Clean_Architecture-16A085?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Design_Patterns-FF4081?style=for-the-badge&logo=moleculer&logoColor=white&labelColor=0D1117" alt="Design Patterns" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<h3 align="center">🛠️ Tools & Enchantments</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" alt="MongoDB" />
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=0D1117" alt="RxJS" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D1117" alt="WordPress" />
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt=".NET MAUI" />
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeDd5eWprbGozZnoyNWx1eTFvNXdpMGhhaGRjZG9jZ2Q0Mzk3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="10px">
+</div>
+
+<br>
+
+## 📊 Development Nebula
 
 <div align="center">
 
@@ -187,57 +190,63 @@ Other             1 hr 00 mins   █░░░░░░░░░░░░░░�
 
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=0CA4F5&text_color=FFFFFF&icon_color=0CA4F5&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishopper&theme=tokyonight&background=0D1117&border=0CA4F5&stroke=0CA4F5&ring=0CA4F5&fire=0CA4F5&currStreakNum=FFFFFF&sideNums=0CA4F5&currStreakLabel=0CA4F5&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
-</div>
-
-</div>
-
-<!-- Current Focus -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk5ank3YTVnanRzZnZ6c3RkY2ZiZG0waWY3OXUyZ2N5NHZrNWhzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsN7MhsJZ583r/giphy.gif" width="40"> Current Endeavors
-
-<div align="center">
-
-| Professional Realm | Academic Pursuit | Skills Expansion |
-|:-------------|:---------|:---------|
-| **Advanced Enterprise Architecture** | **Deep Learning for NLP** | **Cloud Native Applications** |
-| **Event-Sourced Systems** | **Transformer Models Research** | **Advanced System Design** |
-| **Microservice Ecosystems** | **AI for Persian Language** | **Azure Architecture** |
-
-</div>
-
-<!-- Separator -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator">
-</div>
-
-<!-- Connect Section -->
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanc3MnRnbndnNHpvYWV1bmo5YnI1anNuamFrY3hteDJqbjZpM3ZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jOnvrXCbD71tNe0W6W/giphy.gif" width="40"> Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishopper)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=bishopper&show_icons=true&count_private=true&bg_color=0D1117&title_color=E94057&text_color=FFFFFF&icon_color=E94057&hide_border=true&border_radius=10&ring_color=E94057&custom_title=Cosmic%20Contributions" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bishopper&background=0D1117&sideNums=FFFFFF&sideLabels=E94057&currStreakNum=FFFFFF&currStreakLabel=E94057&dates=FFFFFF&fire=F27121&ring=E94057&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h3><em>"At the intersection of code and imagination, we create the digital landscapes of tomorrow."</em></h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeDd5eWprbGozZnoyNWx1eTFvNXdpMGhhaGRjZG9jZ2Q0Mzk3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="10px">
+</div>
+
+<br>
+
+## 🔥 Current Quests
+
+<div align="center">
+
+| Professional Realm | Academic Dimension | Learning Odyssey |
+|:------------------|:-------------------|:-----------------|
+| **Enterprise System Architecture** | **LLM Fine-tuning Research** | **Advanced AI Orchestration** |
+| **Domain-Driven Microservices** | **Neural Network Optimization** | **Cross-Platform Development** |
+| **Event-Sourced Systems** | **NLP for Persian Language** | **System Design at Scale** |
+
+</div>
+
+<br>
+
+## 🌐 Connect Across Dimensions
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mohammad-mahdi-behnam-mehr/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/bishopper)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117)](https://stackoverflow.com/users/yourid)
+
+</div>
+
+<br>
+
+<div align="center">
+  <h3><i>"Exploring the universe of code, weaving the fabric of tomorrow's digital reality."</i></h3>
 </div>
 
 <br>
 
 <div align="center">
   
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishopper&theme=react-dark&bg_color=0D1117&color=0CA4F5&line=0CA4F5&point=FFFFFF&area=true&hide_border=true)](https://github.com/bishopper)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishopper&custom_title=Mohammad%27s%20Cosmic%20Contribution%20Galaxy&hide_border=true&bg_color=0D1117&color=E94057&line=8A2387&point=F27121&area=true&area_color=E94057)](https://github.com/bishopper)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,36&height=200&section=footer&animation=twinkling&fontSize=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=200&section=footer&fontSize=50&fontAlignY=65&animation=fadeIn)
